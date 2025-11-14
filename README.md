@@ -7,6 +7,8 @@ Team Einsteins
 
 - Mei Satler mls410@pitt.edu
 
+- Viraj Bagga vib110@pit.edu
+
 ### Data Sets
 [Median Age of Death](https://data.wprdc.org/dataset/median-age-death)
 - This dataset records the age of death for residents of Pittsburgh from 2011 to 2015. The time of death is based on official records, and the location is based on the primary address of the deceased.
